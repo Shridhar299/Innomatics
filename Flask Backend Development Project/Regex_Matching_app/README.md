@@ -7,12 +7,7 @@ This application provides a simple yet powerful interface for performing regex p
 - Regex Pattern Matching: Validate strings against custom regular expressions.
 - Email Validation: Verify if a given string is a valid email address.
 
-# AWS EC2 Deployment
 
-I've deployed my Regex Pattern Matching and Email Validation App on AWS! 🎉
-
-# 🔗 Check it out here: http://51.20.5.207:5000/
- 
 
 # UI
 
@@ -21,4 +16,5 @@ I've deployed my Regex Pattern Matching and Email Validation App on AWS! 🎉
 
 
 # Results
-![image](https://github.com/SDineshKumar1304/Regex_Matching_Web_App/assets/125432987/95ca2690-bc00-4530-b707-764d51ddcf79)
+![Result](https://github.com/Shridhar299/Innomatics/assets/105181932/d924377d-50dc-4942-a051-b65f619009e1)
+
